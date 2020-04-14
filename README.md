@@ -3,6 +3,9 @@
 [Resource - MDN Mongo Info](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose#Connecting_to_MongoDB) |
 [Resource - Mongoose Methods](https://mongoosejs.com/docs/api/model.html)
 
+### Looks great, and perfect path names. No comments from me!
+### Score : 5/5
+
 ### Schema
 Define a Resident Schema with properties :
 - first name (string)
